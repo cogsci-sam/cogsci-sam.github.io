@@ -1,2 +1,3 @@
-# Hi, My name is Sam. :) 
+#CogSci Sam
+Hi, My name is Sam. :) 
 
