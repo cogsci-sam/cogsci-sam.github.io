@@ -1,0 +1,18 @@
+###########################################################
+### This is the config file for my website!
+###########################################################
+
+############################
+# --- Theme Information --- #
+############################
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+############################
+# --- Website Details --- #
+############################
+
+title: CogSci Sam
+description: A blog about Cognitive Science and its releated disiplins, linguistics and anthropology. 
